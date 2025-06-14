@@ -23,8 +23,5 @@ This is a simple and visually appealing calculator built using HTML, CSS, and Ja
 ## 🙌 Acknowledgements
 This project was developed as part of my internship at [OASIS Infobyte](https://www.linkedin.com/company/oasis-infobyte/).
 
-## 🔗 Live Demo
-Coming Soon...
-
 ## 📌 License
 This project is open-source under the MIT License.
